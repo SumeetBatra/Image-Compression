@@ -5,6 +5,7 @@ import cv2
 import math
 import os
 
+#WARNING: Don't try to run either of these on an actual image!!
 #naive fourier transform, non optimized (for testing)
 def DFTSlow(x):
     M = np.array([])
