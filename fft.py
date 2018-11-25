@@ -27,10 +27,11 @@ def DFT(x):
     return M.dot(x)
 
 
-
+#Fast fourier transform
 def FFT(x):
     pass
 
+#Inverse fast fourier transform - return back from frequency space 
 def IFFT(x):
     pass
 
